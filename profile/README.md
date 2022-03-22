@@ -1,12 +1,10 @@
-![INIActors（イニアクターズ）のロゴ](./iniactors-banner.png)
+![INIActors（イニアクターズ）のロゴ](https://user-images.githubusercontent.com/49315610/159500832-5dfa2020-5b2b-4d17-8f93-d1160032fc0d.png)
 
 INIActorsは [INIAD（東洋大学情報連携学部）](https://www.iniad.org/)唯一の公認演劇サークルです。  
 年に一回、INIADの大学祭であるINIAD-FES (11月頃) にて公演を行っています。  
+
   
-INIActorsの公式サイト（開発中）や、サークル業務に使用するGASのスクリプトなどをオープンソース化しています。  
-  
----  
-  
+INIActorsの公式サイト（開発中）や、サークル業務に使用するGASのスクリプトなどをオープンソース化しています。    
 
 ## 私たちと一緒に舞台を作り上げませんか？
 
