@@ -14,7 +14,7 @@ INIActorsは舞台上で表現する役者や脚本家だけでなく、技術�
 私たちと一緒に舞台を作り上げませんか？
   
 
-💻  **[公式サイト](https://sites.google.com/iniad.org/iniad-engeki/)**
+💻  **[公式サイト](https://iniactors.github.io/)**
 
 🐦  **[Twitter](https://twitter.com/iniactors)**
 
